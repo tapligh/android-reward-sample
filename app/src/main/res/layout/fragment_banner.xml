@@ -45,7 +45,7 @@
             android:layout_width="@dimen/card_max_width"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="32dp"
             app:cardBackgroundColor="@color/colorPrimaryDark"
             app:cardCornerRadius="5dp"
             app:contentPadding="16dp">
